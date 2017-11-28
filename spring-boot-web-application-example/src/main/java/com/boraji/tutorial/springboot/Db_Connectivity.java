@@ -8,7 +8,7 @@ import com.mongodb.Mongo;
 
 public class Db_Connectivity {
 	
-	
+	// hey im here for first commit
 	final String HOST="localhost";
 	final int PORT=27017;
 	final String DBNAME="javablogs";
